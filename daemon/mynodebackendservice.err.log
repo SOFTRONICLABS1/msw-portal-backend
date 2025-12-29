@@ -1,0 +1,714 @@
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Failed to fetch inventory data: getaddrinfo ENOTFOUND msw-vkap.whse.com
+Failed to fetch transaction data: getaddrinfo ENOTFOUND msw-vkap.whse.com
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+DB error: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:438:14
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at next (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\route.js:117:3)
+    at handle (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\lib\layer.js:152:17)
+    at E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:295:15
+    at processParams (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\router\index.js:582:12) {
+  fatal: true
+}
+Error archiving inventory: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:554:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Error archiving transaction: Error: Can't add new command when connection is in closed state
+    at Connection._addCommandClosedState (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:159:17)
+    at Connection.query (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\mysql2\lib\base\connection.js:571:17)
+    at Task._execution (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js:569:14)
+    at Task.execute (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\task.js:17:25)
+    at ScheduledTask.now (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:38:33)
+    at Scheduler.<anonymous> (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduled-task.js:25:18)
+    at Scheduler.emit (node:events:518:28)
+    at Timeout.matchTime [as _onTimeout] (E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-cron\src\scheduler.js:30:26)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  fatal: true
+}
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Failed to fetch inventory data: connect ETIMEDOUT 192.168.0.24:443
+Failed to fetch transaction data: connect ETIMEDOUT 192.168.0.24:443
+Failed to fetch inventory data: Request failed with status code 500
+Failed to fetch transaction data: Request failed with status code 500
+Failed to fetch transaction data: connect ETIMEDOUT 192.168.0.47:443
+Failed to fetch inventory data: connect ETIMEDOUT 192.168.0.47:443
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403
+Failed to fetch transaction data: getaddrinfo ENOTFOUND msw-vkap24.whse.com
+Failed to fetch inventory data: getaddrinfo ENOTFOUND msw-vkap24.whse.com
+Failed to fetch inventory data: connect ETIMEDOUT 192.168.0.47:443
+Failed to fetch transaction data: connect ETIMEDOUT 192.168.0.47:443
+Scheduled refresh failed with status: 403
+Scheduled refresh failed with status: 403

@@ -1,0 +1,32 @@
+<service>
+	<id>mynodeapp.exe</id>
+	<name>MyNodeApp</name>
+	<description>My Node.js server as a Windows service</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>--max_old_space_size=512</argument>
+	<argument>E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\script\server.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>MyNodeApp wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>MSW-PORTAL</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server</workingdirectory>
+</service>

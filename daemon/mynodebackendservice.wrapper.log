@@ -1,0 +1,260 @@
+2025-07-07 05:55:29 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-07 05:55:29 - Started 17908
+2025-07-13 21:13:28 - Stopping mynodebackendservice.exe
+2025-07-13 21:13:28 - ProcessKill 17908
+2025-07-13 21:13:28 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-07-13 21:13:59 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-13 21:14:00 - Started 5524
+2025-07-14 00:25:43 - Stopping mynodebackendservice.exe
+2025-07-14 00:25:43 - ProcessKill 5524
+2025-07-14 00:25:44 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-07-14 00:26:05 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-14 00:26:05 - Started 5848
+2025-07-14 00:41:23 - Stopping mynodebackendservice.exe
+2025-07-14 00:41:23 - ProcessKill 5848
+2025-07-14 00:41:24 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-07-14 00:41:44 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-14 00:41:44 - Started 5796
+2025-07-14 06:19:08 - Stopping mynodebackendservice.exe
+2025-07-14 06:19:08 - ProcessKill 5796
+2025-07-14 06:19:09 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-07-14 06:19:30 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-14 06:19:30 - Started 5672
+2025-09-07 14:20:24 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-07 14:20:24 - Started 5432
+2025-10-31 05:03:15 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-31 05:03:15 - Started 19900
+2025-11-09 16:37:12 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-09 16:37:12 - Started 5956
+2025-11-09 16:43:03 - Stopping mynodebackendservice.exe
+2025-11-09 16:43:03 - ProcessKill 5956
+2025-11-09 16:43:03 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-11-09 16:43:31 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-09 16:43:31 - Started 6024
+2025-11-10 00:21:30 - Stopping mynodebackendservice.exe
+2025-11-10 00:21:30 - ProcessKill 6024
+2025-11-10 00:21:30 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-11-10 00:21:58 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-10 00:21:58 - Started 5924
+2025-11-10 00:25:44 - Stopping mynodebackendservice.exe
+2025-11-10 00:25:44 - ProcessKill 5924
+2025-11-10 00:25:45 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-11-10 00:26:10 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-10 00:26:10 - Started 5764
+2025-11-13 06:53:07 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 06:53:07 - Started 5752
+2025-11-13 06:56:26 - Stopping mynodebackendservice.exe
+2025-11-13 06:56:26 - ProcessKill 5752
+2025-11-13 06:56:27 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-11-13 06:56:52 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 06:56:52 - Started 5848
+2025-11-13 07:11:01 - Stopping mynodebackendservice.exe
+2025-11-13 07:11:01 - ProcessKill 5848
+2025-11-13 07:11:01 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-11-13 07:11:28 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 07:11:28 - Started 5692
+2025-11-13 07:49:06 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 07:49:06 - Started 5748
+2025-11-13 07:59:38 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 07:59:38 - Started 5844
+2025-11-13 08:07:04 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 08:07:04 - Started 5852
+2025-11-13 08:14:28 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-13 08:14:28 - Started 5828
+2025-12-21 15:37:36 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-21 15:37:36 - Started 5788
+2025-12-21 15:42:15 - Stopping mynodebackendservice.exe
+2025-12-21 15:42:15 - ProcessKill 5788
+2025-12-21 15:42:16 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-12-21 15:42:41 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-21 15:42:41 - Started 5836
+2025-12-21 17:40:47 - Stopping mynodebackendservice.exe
+2025-12-21 17:40:47 - ProcessKill 5836
+2025-12-21 17:40:48 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-12-21 17:41:20 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-21 17:41:20 - Started 5856
+2025-12-21 18:20:03 - Stopping mynodebackendservice.exe
+2025-12-21 18:20:03 - ProcessKill 5856
+2025-12-21 18:20:04 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-12-21 18:20:33 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-21 18:20:33 - Started 5840
+2025-12-21 20:31:22 - Stopping mynodebackendservice.exe
+2025-12-21 20:31:22 - ProcessKill 5840
+2025-12-21 20:31:22 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-12-21 20:32:33 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-21 20:32:33 - Started 5948
+2025-12-21 20:37:56 - Stopping mynodebackendservice.exe
+2025-12-21 20:37:56 - ProcessKill 5948
+2025-12-21 20:37:56 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-12-21 20:39:07 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-21 20:39:07 - Started 9300
+2025-12-22 06:51:31 - Stopping mynodebackendservice.exe
+2025-12-22 06:51:31 - ProcessKill 9300
+2025-12-22 06:51:32 - Shutdown exception
+Message:Class not registered
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-12-22 06:52:50 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=512 "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\node_modules\node-windows\lib\wrapper.js" --file "E:\MSWWebPortalSourcecode\Stable version with Refresh Tokens 9th jun 25\final web app\server\server.js" --scriptoptions= --log "MyNodeBackendService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-22 06:52:50 - Started 13220
